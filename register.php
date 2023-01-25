@@ -9,7 +9,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2>Register</h2>
+                    <h2>Regis</h2>
                     <p>Please fill this form to create an account.</p>
                     <form action="" method="post">
                         <div class="form-group">
